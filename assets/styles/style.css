@@ -1,0 +1,23 @@
+*{
+    color: rgb(1, 46, 4);
+}
+nav a{
+    text-decoration: none;
+    font-weight: 800;
+    color: rgb(1, 46, 4);
+}
+body{
+    background-color: rgb(183, 216, 156) ;
+}
+section img{ 
+    width: 40rem;
+}
+.consolas img {
+    width: 10rem;
+}
+section img{
+    width: 20rem;
+}
+section .img-light{
+    width: 10rem;
+}
